@@ -23,7 +23,7 @@ We're working on the pre-alpha versions of a powerful support infrastructure ide
 
 It should pull in all possible remotely support-related features (including things like website SEO reports) like a MAGNET in one location. Progress on this earlier in 2014 was delayed as our agency became very busy. We are thus still in the idea process but more updates may arrive on this repository very soon.
 
-Magnetron by KiloThought Media should provide a great experience for anyone needing help. However, as we are still a small agency and still have consciences, development of our clients' projects and so forth will alwys take precedence over this one.
+Magnetron by KiloThought Media should provide a great experience for anyone needing help. However, as we are still a small agency and still have consciences, development of our clients' projects and so forth will always take precedence over this one.
 
 
 Submitting Bug Fixes and New Features
