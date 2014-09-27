@@ -3,6 +3,17 @@ magnetron support system v 0.0
 
 KiloThought's Top Secret Classified Open Source Project for the public
 
+Description
+----------------------------
+
+Well, it's a top secret "projecKt." It's also in the very early stages, so more information will be forthcoming as soon as progress is made.
+
+A considerable portion of the Magnetron project will be focused on support automation (clarification without removing the human support element) and streamlining the process for both our clients and our agency (or possibly yours).
+
+A very important element for us is combining a lot of support features that web design and consulting clients might need, ie: website technical support, analytics and SEO reports, contact information and what-say-you. All of these need to be in one simple location.
+
+To reiterate: We are in such an early stage that we fully expect this project to change its form massively over time. When we're done, it might be a calculator with a unicorn on it or something.
+
 ----------------------------
 UPDATES
 
@@ -12,9 +23,16 @@ We're working on the pre-alpha versions of a powerful support infrastructure ide
 
 It should pull in all possible remotely support-related features (including things like website SEO reports) like a MAGNET in one location. Progress on this earlier in 2014 was delayed as our agency became very busy. We are thus still in the idea process but more updates may arrive on this repository very soon.
 
+Magnetron by KiloThought Media should provide a great experience for anyone needing help. However, as we are still a small agency and still have consciences, development of our clients' projects and so forth will alwys take precedence over this one.
+
+
 Submitting Bug Fixes and New Features
 ----------------------------
 Report any bugs or vulnerabilities to info@kilothought.com
+
+Credits
+----------------------------
+Magnetron is being developed by the core team of KiloThought Media, LLC headquartered in Coconut Grove, Florida, US.
 
 License
 ----------------------------
